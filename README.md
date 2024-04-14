@@ -1,6 +1,6 @@
 # Polymorphic Buffer
 
-This module provides interfaces and methods for working with polymorphic buffers in TypeScript. Polymorphic buffers are versatile data structures that can be initialized from various sources, such as strings, byte arrays, or existing buffers.
+This module provides interfaces and methods for working with polymorphic buffers in TypeScript. Polymorphic buffers are versatile data structures that works both in `Node.JS` and `browser` environments and can be initialized from various sources, such as strings, byte arrays, or existing buffers.
 
 
 ## Installation
