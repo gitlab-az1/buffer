@@ -1,8 +1,11 @@
 {
   "name": "@ts-overflow/buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/gitlab-az1/buffer.git",
   "author": "gitlab-az1 <gitlab.az1@gmail.com>",
-  "license": "AGPL-3.0-only"
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "next-math": "^1.0.1"
+  }
 }

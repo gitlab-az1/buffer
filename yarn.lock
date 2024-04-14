@@ -1378,6 +1378,11 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
+"@ts-overflow/buffer@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@ts-overflow/buffer/-/buffer-1.0.0.tgz#674b76ed6f152408d0268a0da9dd433696b749a6"
+  integrity sha512-qOaM3C9Y3JGGrHFMmwgdDrmWSpDE+l603wIdoxLFcNDUQfpLQmrwp57LNWx5ZpfxHTdnI9gaiFbRrcd75R09hQ==
+
 "@types/babel__core@^7.1.14":
   version "7.20.5"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.20.5.tgz#3df15f27ba85319caa07ba08d0721889bb39c017"
